@@ -1,0 +1,1 @@
+hey note that the aim of this codespace is to extract nn model  from kaggle notebook to here / pc
